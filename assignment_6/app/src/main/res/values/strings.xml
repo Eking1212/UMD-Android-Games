@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">assignment_6</string>
+    <string name="welcome_message">Welcome! Click on the game you would like to play.</string>
+    <string name="fwgc_button">farmer, wolf, goat, and cabbage</string>
+    <string name="puzzle_button">8 puzzle</string>
+    <string name="fwgc_direct">There is a farmer, wolf, goat, and a cabbage that needs to go to the other side of the river.
+        The farmer can only take one other object besides himself across at the same time.
+        The wolf can not be left with the goat and the goat can not be left with the cabbage.
+        Find a sequence that allows them to get to the other side.</string>
+    <string name="begin_button">Begin</string>
+    <string name="eight_puzzle_direct">You are given a board in which numbered tiles can slide around.
+        There is one blank space that holds no tile.
+        A legal move consists of sliding a tile into the blank space if the tile is adjacent to it.
+        The goal is to move tiles around until the board looks like the final state below.</string>
+    <string name="fwgc_line">|  |</string>
+    <string name="farmer_button">Farmer</string>
+    <string name="wolf_button">Wolf</string>
+    <string name="goat_button">Goat</string>
+    <string name="cabbage_button">Cabbage</string>
+    <string name="reset_button">Reset</string>
+    <string name="puzzle_but_1">1</string>
+    <string name="puzzle_but_2">2</string>
+    <string name="puzzle_but_3">3</string>
+    <string name="puzzle_but_4">4</string>
+    <string name="puzzle_but_5">5</string>
+    <string name="puzzle_but_6">6</string>
+    <string name="puzzle_but_7">7</string>
+    <string name="puzzle_but_8">8</string>
+    <string name="Tile_puzzle">Welcome to the 8-Puzzle problem.</string>
+    <string name="tile_fwgc">"Welcome to the Farmer, Wolf, Goat, and Cabbage probem.</string>
+    <string name="header_puzzle">Click the tile you would like to move.</string>
+    <string name="solver">Solve</string>
+    <string name="next">Next</string>
+
+</resources>
